@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metinzeren/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "metin zeren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metinzeren/PCAT/issues"
+  },
+  "homepage": "https://github.com/Metinzeren/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.8.2"
+  }
+}
